@@ -22,7 +22,7 @@
 
 ## 📬 Reach me out
 <p align="left">
-<a href ="https://www.linkedin.com/in/sourav-gupta-330ab8106/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href ="https://www.linkedin.com/in/sourav959/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 </p>
 
 <!--
