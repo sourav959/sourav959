@@ -8,6 +8,8 @@
  
 - 🌱 I’m currently learning **Java, Spring Boot & Micro-services**.
 
+- 💼 Resume: <a href="https://rxresu.me/souravgupta959/sourav-gupta">Sourav Gupta</a>
+
 - 📫 Mail me at **souravgupta959@gmail.com**.
 
 - ⚡ Fun fact **Hot water will turn into ice faster than cold water!**.
