@@ -14,6 +14,12 @@
 
 - ⚡ Fun fact **Hot water will turn into ice faster than cold water!**.
 
+<p align="left">
+<a href="https://github.com/sourav959/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=sourav959">
+</a> <a href="https://github.com/sourav959?tab=followers"><img src="https://img.shields.io/github/followers/sourav959?label=Followers&style=social" alt="GitHub Badge"></a>
+</p>
+
 ## 📬 Reach me out
 <p align="left">
 <a href ="https://www.linkedin.com/in/sourav-gupta-330ab8106/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
