@@ -8,7 +8,7 @@
  
 - 🌱 I’m currently learning **Java, Spring Boot & Micro-services**.
 
-- 💼 Resume: <a href="https://rxresu.me/souravgupta959/sourav-gupta"><b>Sourav Gupta</b></a>
+- 💼 Resume: <a href="https://drive.google.com/file/d/1lxg0XzgtnfwFDeXgn8-I5UliXo_Yb21z/view?usp=sharing"><b>Sourav Gupta</b></a>
 
 - 📫 Mail me at **souravgupta959@gmail.com**.
 
