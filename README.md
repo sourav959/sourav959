@@ -4,7 +4,7 @@
 
 ### 🙋‍♂️ About Me
 
-- 🔭 I’m currently working as a **Software Engineer** at **Epam Systems** having 1 year of experience.
+- 🔭 I’m currently working as a **Software Engineer** at **Epam Systems** having 1.5 years of experience.
  
 - 🌱 I’m currently learning **Java, Spring Boot & Micro-services**.
 
